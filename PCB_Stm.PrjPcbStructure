@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_D_Input|SchDesignator=U_D_Input|FileName=D_Input.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=D_Input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_D_Output|SchDesignator=U_D_Output|FileName=D_Output.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=D_Output.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_RS232|SchDesignator=U_RS232|FileName=RS232.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=RS232.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=A_Input.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=PWM_Output.SchDoc|SheetNumber=6
